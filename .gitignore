@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+# Maven build folder
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
